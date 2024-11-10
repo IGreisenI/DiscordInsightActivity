@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@discord/embedded-app-sdk": "^1.6.1",
+    "unity-webgl": "^3.5.5",
     "vue": "^3.5.12"
   },
   "devDependencies": {
