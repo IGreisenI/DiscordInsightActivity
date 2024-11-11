@@ -1,2 +1,3 @@
 # DiscordInsightActivity
- Discord activity for getting user data
+ Discord activity for getting user data \
+ Failed attempt
